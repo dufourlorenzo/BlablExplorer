@@ -1,0 +1,628 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_timezone,wheelchair_boarding
+QXB,"",Aix-en-Provence - Krypton Park & Ride,"",43.511004,5.447470,Europe/Paris,1
+XAM,"",Amsterdam City Center - Sloterdijk,"",52.389725,4.838442,Europe/Amsterdam,1
+XAN,"",Antwerp - Rooseveltplaats,"",51.219258,4.417153,Europe/Brussels,1
+XBC,"",Barcelona - North Bus Station,"",41.394968,2.183275,Europe/Madrid,1
+ZYR,"",Brussels - Midi Train Station,"Your bus stop is located on parking strip Rue de France, take the exit Rue de France / Rue de l'Instruction.",50.834966,4.333064,Europe/Brussels,1
+GOA,"",Genoa - Via Fanti d'Italia Bus Stop,"",44.416356,8.919053,Europe/Rome,1
+XGC,"",Geneva - Bus Station,The bus station is a 7 minute walk from Geneva Cornavin train station.,46.208384,6.146746,Europe/Zurich,1
+GIA,"",Girona - Bus Station,"The entrance to the underground -1 bus station is located in Plaça Joan Brossa. As the station is closed from 23:00 to 5:45, all departures and arrivals during these hours take place at the taxi stop",41.978969,2.817311,Europe/Madrid,1
+XDB,"",Lille - Europe Train Station,"",50.638638,3.076491,Europe/Paris,1
+ZEP,"",London - Victoria Coach Station,Access : Buses are inside the Victoria Coach Station.,51.492513,-0.148349,Europe/London,1
+XYL,"",Lyon - Perrache Bus Station,"Platforms are accessible from level 1, galerie A. Saône side. WARNING: The station is closed between 00:45 and 04:45, the BlaBlaCar bus stop will be located under the Kitchener bridge.",45.749711,4.826788,Europe/Paris,1
+XRF,"",Marseille - Saint-Charles Bus Station,"",43.304179,5.379868,Europe/Paris,1
+XLM,"",Milan - Lampugnano Bus Station,"",45.489769,9.127595,Europe/Rome,1
+XMT,"",Montpellier - Sabines Bus Station,"",43.584233,3.860007,Europe/Paris,1
+NCE,"",Nice - Airport Bus Station Terminal 1,"",43.664926,7.209845,Europe/Paris,1
+XNS,"",Nîmes - Parnasse Bus Station,"",43.817307,4.361770,Europe/Paris,1
+XPB,"",Paris - Bercy-Seine Bus Station,Pedestrians: via Bercy Park (behind the weight training area) from Bercy metro station. Cars: Quai de Bercy side. Free minute drop-off (10 min). Parking prohibited on the Quai de Bercy.,48.835687,2.380161,Europe/Paris,1
+CDG,"",Paris - CDG Roissypole Bus Station,"Platform I - Transport: RER B - Roissypôle Gare. By car: Rue du Luxembourg, Tremblay-en-France.",49.010894,2.558934,Europe/Paris,1
+QRH,"",Rotterdam,"",51.923531,4.466534,Europe/Amsterdam,1
+XTS,"",Toulouse - Matabiau Bus Station,"ATTENTION: the bus station is closed from 1:00 to 4:30. Substitution: bus stop Pont Matabiau 89 boulevard Pierre Sémard 31500 TOULOUSE.  GPS point: 43.61392540552035, 1.4512734381914663",43.613299,1.452226,Europe/Paris,1
+XUT,"",Torino - Porta Nuova,"Transport: Metro : Line 1 - Station Porta Nuova. Bus : 11, 12, 58, 64, 92 - Bus stop Porta Nuova. Tramway : 4, 9 - Bus stop Porta Nuova",45.062613,7.679807,Europe/Rome,1
+ORY,"",Paris-Orly Airport - Orly Parking P5,"",48.730637,2.364067,Europe/Paris,1
+QJZ,"",Nantes - Haluchère-Batignolles,"Transport : From the city center : Take Tram 1 direction ""Beaujoire/Ranzay"", stop at ""Haluchère-Batignolles"" (18 minutes).",47.248785,-1.520898,Europe/Paris,1
+QXG,"",Angers - Bus Station Esplanade,"PLEASE NOTE: From 7 July 2025 to 31 August 2025, your platform will be moved to Place Sémard Quai P.",47.464769,-0.557731,Europe/Paris,1
+XAS,"",Amiens,Attention: Your stop is not at Amiens bus station but in Hortillons' parking (10 min from bus station) .,49.897096,2.311491,Europe/Paris,1
+XBE,"",Brive-la-Gaillarde - Brive Laroche Multimodal Interchange Hub,"",45.148625,1.479200,Europe/Paris,1
+XBS,"",Bourges,Please note: your stop has been moved to 1 rue Joseph le Brix until 31/12/2025 inclusive.,47.068265,2.374870,Europe/Paris,1
+XBT,"",Brest - SNCF Train Station,Platform 8,48.387050,-4.483548,Europe/Paris,1
+XCA,"",Caen - Bus Station,"",49.176438,-0.347647,Europe/Paris,1
+XCF,"",Clermont-Ferrand - Bus Station,"Note: 09-19-2025, 7:30 a.m. to 4 p.m. Dep: 17 Avenue de la Libération. From Saturday 8 p.m. to Sunday 2 p.m., the bus station is closed. Departures are from the “Salins Pasteur” stop on bd Pasteur.",45.770780,3.082300,Europe/Paris,1
+XDE,"",Dunkirk - Pôle d'Échange Station,"",51.031717,2.368469,Europe/Paris,1
+XER,"",Strasbourg - L'Étoile Park Bus Station,"",48.574241,7.754260,Europe/Paris,1
+XGE,"",Grenoble - Bus Station,"",45.192833,5.714294,Europe/Paris,1
+XIZ,"",Reims - Champagne Ardenne Train Station,"Transport:  To reach the city center: Tram B in 25 minutes, Bus, or train in 12 minutes.",49.214754,3.994568,Europe/Paris,1
+XLH,"",Le Havre - Bus Station,"",49.492105,0.125341,Europe/Paris,1
+XLS,"",Limoges,"",45.836153,1.268487,Europe/Paris,1
+XLT,"",Lorient - Échange Bus Station,"",47.755408,-3.364137,Europe/Paris,1
+XMS,"",Le Mans - Université Bus Station,"Your stop is located at the terminal station of Tram 1, stop ""Université"". Transport : From the city center : Tram 1 direction "" Université "" (17 minutes).",48.017410,0.149440,Europe/Paris,1
+XMZ,"",Metz - Bus Station,"Access : If the station is closed, the departure will be in front of the station gate.",49.110633,6.183319,Europe/Paris,1
+XNY,"",Nancy - Vandoeuvre CHU Brabois Bus Stop,"Transport: From the city center: Take Tram 1 and get off at the terminal station ""Vandoeuvre CHU Brabois"".",48.648395,6.144363,Europe/Paris,1
+XOP,"",Poitiers - Bus Station,"",46.584447,0.336029,Europe/Paris,1
+XOS,"",Orléans - Georges Pompidou Bus Stop,"Transport : To reach your stop: Tram B direction Georges Pompidou, terminus stop (about 20 minutes from the city center)",47.896134,1.854014,Europe/Paris,1
+XPD,"",Paris - La Défense Jules Verne Terminal,"Access: exit 6: La Coupole. From Monday to Saturday, from 6:00 to 21:00: platforms 1 to 10, before 6:00 or after 21:00:  platforms 11-15. On Sunday, all day:  platforms 11-15 .",48.891320,2.242330,Europe/Paris,1
+XQR,"",Quimper - Bus Station,Boarding: BlaBlaCar buses stop at platform n° 6,47.994171,-4.090690,Europe/Paris,1
+XRN,"",Rouen - Avenue Champlain Bus Stop,"",49.434093,1.092471,Europe/Paris,1
+XSB,"",Saint-Brieuc,"",48.506828,-2.766448,Europe/Paris,1
+XTO,"",Tours - Édouard Vaillant Bus Station,"",47.383496,0.702171,Europe/Paris,1
+ZFJ,"",Rennes - Bus Station,"",48.104103,-1.669906,Europe/Paris,1
+ZFQ,"",Bordeaux - Belcier Bus Stop,"",44.822718,-0.554691,Europe/Paris,1
+COU,"",Coquelles - UK,"",50.929309,1.822330,Europe/London,1
+XBN,"",Besançon - Viotte Hub,"",47.246810,6.022631,Europe/Paris,1
+ZDH,"",Mulhouse,"",47.742183,7.341877,Europe/Paris,1
+XCN,"",Cannes - Place Bénidorm,"Votre arrêt est situé sur le parking, en face de l'office de tourisme.",43.570898,7.014582,Europe/Paris,1
+COF,"",Coquelles - Terminal Eurotunnel,"",50.929896,1.821999,Europe/Paris,1
+XVS,"",Vannes,"",47.666422,-2.747920,Europe/Paris,1
+XLR,"",La Rochelle - Bus Station,"",46.153044,-1.141486,Europe/Paris,1
+XTR,"",Troyes,"",48.296203,4.065316,Europe/Paris,1
+XLA,"",Les Deux Alpes,"",45.010446,6.124712,Europe/Paris,1
+XAZ,"",Alpe d'Huez,"",45.089735,6.074666,Europe/Paris,1
+XMO,"",Moutiers,"",45.486800,6.529400,Europe/Paris,1
+XBM,"",Bourg-Saint-Maurice,La gare routière est située à proximité de la gare SNCF.,45.619570,6.771720,Europe/Paris,1
+XAI,"",Aime - La Plagne,"",45.554480,6.647470,Europe/Paris,1
+QKU,"",Cologne - Airport Bus Station,Platform 9 or 11.,50.881444,7.117081,Europe/Berlin,1
+XBA,"",Bayonne - Quai de Lesseps Bus Stop,Access: The bus station is 160 meters from the PONT GRENET bus stop.,43.497609,-1.479022,Europe/Paris,1
+XNT,"",Niort,"Transport : Bus: Stop ""Pied de Fond"" line 2 and 7. From the city center: Line 2 and 7 direction Bessines (20 minutes).",46.307555,-0.485627,Europe/Paris,1
+XZN,"",Avignon - Le Pontet - Le Lac Stop,Stop Le Pontet - Le Lac  Accessible by Bus lines C2 -14 - 902  opposite MATMUT (on the other side of the road),43.960626,4.855937,Europe/Paris,1
+DOL,"",Deauville,"",49.359119,0.084067,Europe/Paris,1
+DNR,"",Saint-Malo,"",48.650588,-2.021689,Europe/Paris,1
+RYN,"",Royan,Departure and arrival on platform C.,45.626108,-1.016375,Europe/Paris,1
+XAC,"",Arcachon,"",44.636959,-1.142979,Europe/Paris,1
+XCL,"",Calais - City Hall,"",50.953183,1.853484,Europe/Paris,1
+XAX,"",Parc Astérix,"",49.136899,2.570402,Europe/Paris,1
+PGF,"",Perpignan - Bus Station,"",42.694931,2.879244,Europe/Paris,1
+XAG,"",Le Cap d'Agde,"",43.316926,3.466234,Europe/Paris,1
+XFJ,"",Fréjus - Bus Station,"",43.435580,6.737390,Europe/Paris,1
+XZR,"",Béziers,"From November 7, 2024, the stop will be moved to 14, Boulevard Maréchal Leclerc (“Jean Perrin” stop).",43.342575,3.238013,Europe/Paris,1
+XAV,"",Avranches,"",48.690150,-1.369671,Europe/Paris,1
+XBP,"",Bordeaux Pessac,ATTENTION: Your bus stop has been moved from 07/07/2024 to 31/08/2024  Halte routière Belcier  147 rue des terres de bordes  33800 Bordeaux,44.804366,-0.632593,Europe/Paris,1
+XCY,"",Chambéry - Bus Station,"",45.569957,5.917277,Europe/Paris,1
+XCM,"",Les Contamines-Montjoie,"",45.822379,6.726850,Europe/Paris,1
+XDX,"",Dax,"",43.720268,-1.049650,Europe/Paris,1
+GVA,"",Geneva - Airport Bus Station,"",46.230120,6.109288,Europe/Zurich,1
+XGP,"",Guingamp,"",48.555841,-3.142547,Europe/Paris,1
+XHD,"",Hendaye,"",43.351104,-1.783282,Europe/Paris,1
+LYS,"",Lyon - St. Exupéry Airport T1 Bus Stop,Transport : Tram Lyon Rhône Express.,45.719095,5.079539,Europe/Paris,1
+XMG,"",Megève - Bus station,"",45.859000,6.618116,Europe/Paris,1
+XMX,"",Morlaix,"",48.577528,-3.832942,Europe/Paris,1
+PUF,"",Pau - Technopôle Héliparc,"",43.319002,-0.362155,Europe/Paris,1
+PGX,"",Périgueux - Pôle Créavallée North,"Your stop is located at the exchange pole of Créavallée Nord. Transport : From the city center : Line "" Nord Sud Express "" direction "" Créavallée Nord"" (25 minutes), or line 11.",45.143110,0.698516,Europe/Paris,1
+EAS,"",San Sebastián - Bus Station,Attention : This is an underground station.,43.317131,-1.977381,Europe/Madrid,1
+XSJ,"",Saint-Jean-de-Luz,"",43.386163,-1.660763,Europe/Paris,1
+LDE,"",Tarbes,Your stop is opposite the Lautréamont High School.,43.223340,0.047218,Europe/Paris,1
+BVA,"",Beauvais Airport - Bus Station,"",49.459460,2.112223,Europe/Paris,1
+LTQ,"",Le Touquet-Paris-Plage,"",50.527369,1.582905,Europe/Paris,1
+GFR,"",Mont-Saint-Michel,"",48.612091,-1.509184,Europe/Paris,1
+AUF,"",Auxerre - Train Station,"",47.796629,3.584484,Europe/Paris,1
+TLN,"",Toulon - Bus Station,"",43.127798,5.930755,Europe/Paris,1
+NCY,"",Annecy - Bus Station,"",45.901670,6.121292,Europe/Paris,1
+XLV,"",Laval,"Attention: Line 50917 at 19h15 29 MAY 2024 OLYMPIC FLAME your stop is moved to  bus stop ""LAURIERS"" 48 avenue de Chanzy 53000 LAVAL",48.075944,-0.760562,Europe/Paris,1
+CMX,"",Chamonix - Bus Station,"",45.917305,6.866800,Europe/Paris,1
+XCB,"",Combloux,"",45.895668,6.644340,Europe/Paris,1
+XPZ,"",Praz-sur-Arly - Chef-lieu,Your bus stop is located near the Tourist Office of Praz-sur-Arly.,45.837948,6.571725,Europe/Paris,1
+XMK,"",Montélimar,"",44.559662,4.745270,Europe/Paris,1
+ANG,"",Angoulême - Bus Station,"",45.653437,0.165591,Europe/Paris,1
+XCD,"",Chalon-sur-Saône - Train Station,"",46.782053,4.844260,Europe/Paris,1
+EBU,"",Saint-Étienne - Rue Milleret Bus Stop,"",45.442411,4.402973,Europe/Paris,1
+BIJ,"",Biarritz - Airport Bus Station,"",43.472011,-1.532416,Europe/Paris,1
+XMW,"",Montauban Sud,"",43.981774,1.331668,Europe/Paris,1
+DLP,"",Chessy South Bus Station,"",48.865739,2.783049,Europe/Paris,1
+CHO,"",Chamrousse,"",45.126295,5.878277,Europe/Paris,1
+BRC,"",Briançon,"",44.889300,6.632900,Europe/Paris,1
+XVE,"",Val d'Isère,"",45.450505,6.976705,Europe/Paris,1
+XFY,"",Saint-Gervais-les-Bains - Le Fayet,"",45.905941,6.701106,Europe/Paris,1
+OUI,"",Ouistreham,Votre arrêt est situé à la gare maritime de Ouistreham,49.283691,-0.249783,Europe/Paris,1
+CER,"",Cherbourg-Octeville,"Votre arrêt est situé à la gare routière de Cherbourg, en face de la gare SNCF, de l'autre côté de l'avenue Jean-François Millet.",49.634024,-1.621079,Europe/Paris,1
+MIM,"",Mimizan,"",44.201892,-1.229402,Europe/Paris,1
+XLU,"",Lourdes,Your BlaBlaCar bus is at platform 2,43.100180,-0.041551,Europe/Paris,1
+XBI,"",Biscarrosse,"",44.393668,-1.164642,Europe/Paris,1
+XDU,"",Marennes-Oléron,"",45.821002,-1.108571,Europe/Paris,1
+MON,"",Montargis,"",47.977843,2.729137,Europe/Paris,1
+COL,"",Colmar,"",48.073756,7.347799,Europe/Paris,1
+EAP,"",Basel Mulhouse Freiburg - Airport,"Boarding is in the French sector, level 2.",47.600746,7.531787,Europe/Zurich,1
+XVN,"",Vienne,"",45.519027,4.870959,Europe/Paris,1
+XGB,"",Grenoble - Oxford Bus Stop,"",45.204565,5.701076,Europe/Paris,1
+XVO,"",Voiron,"",45.364954,5.593198,Europe/Paris,1
+XVF,"",Villefontaine,"",45.625273,5.163441,Europe/Paris,1
+XXB,"",Aix-les-Bains,"",45.688341,5.909571,Europe/Paris,1
+XSD,"",Paris - St-Denis Université Bus Station,"Your BlaBlaCar bus stop is located on the place of the metro and bus stops, on rue Toussaint Louverture.",48.946262,2.363715,Europe/Paris,1
+BRG,"",Bruges,"",51.195470,3.216475,Europe/Brussels,1
+XHF,"",Honfleur,"",49.419217,0.237157,Europe/Paris,1
+XVG,"",Valence - Central Bus Station,"",44.926842,4.892645,Europe/Paris,1
+CAB,"",Cabourg,"",49.294317,-0.106552,Europe/Paris,1
+LCT,"",La Ciotat,"",43.176659,5.610743,Europe/Paris,1
+ORG,"",Orange,"",44.136092,4.801378,Europe/Paris,1
+MAA,"",Marseille Provence Airport,Your bus station is located between terminal 1 and terminal 2.,43.443573,5.219932,Europe/Paris,1
+ANB,"",Antibes - Stade 3 moulins,"",43.603707,7.081270,Europe/Paris,1
+LUX,"",Luxembourg,The bus stops is near to the platform 4,49.599985,6.105255,Europe/Luxembourg,1
+THI,"",Thionville,"",49.353986,6.168382,Europe/Paris,1
+AMS,"",Amsterdam - Schiphol Airport Bus Station,"",52.306545,4.759699,Europe/Amsterdam,1
+URT,"",Utrecht,"",52.090109,5.105177,Europe/Amsterdam,1
+LHY,"",The Hague,"",52.079860,4.325712,Europe/Amsterdam,1
+BXA,"",Brussels - Zaventem Airport Parking P16,"Buses depart from the ""Coaches"" bus station (Level 0) at the P16 parking.",50.897651,4.479879,Europe/Brussels,1
+LVN,"",Leuven,"",50.884155,4.714259,Europe/Brussels,1
+BLF,"",Belfort,"",47.628566,6.856902,Europe/Paris,1
+LIG,"",Liège,Due to works on our actual stop our busses will stop in our new temporary stop at Rue des Guillemins 88 near the roundabout.,50.626258,5.566014,Europe/Brussels,1
+HYP,"",Hyères - Place Louis Versin,"",43.117021,6.134157,Europe/Paris,1
+LAC,"",Lacanau,"",45.001175,-1.195840,Europe/Paris,1
+CRX,"",Châteauroux,"",46.849141,1.709043,Europe/Paris,1
+CAR,"",Carcassonne,coach parking,43.215750,2.347978,Europe/Paris,1
+SET,"",Sète,"",43.412607,3.698294,Europe/Paris,1
+TGR,"",Turin - Vittorio Emanuele Bus Station,"",45.070176,7.657810,Europe/Rome,1
+XDP,"",Dieppe,"",49.922104,1.080672,Europe/Paris,1
+GAN,"",Ghent,"",51.053175,3.740671,Europe/Brussels,1
+LGR,"",Le Grau-du-Roi,"",43.537515,4.140615,Europe/Paris,1
+LSN,"",Lausanne,"",46.536110,6.623749,Europe/Zurich,1
+ANM,"",Annemasse,"",46.199805,6.239285,Europe/Paris,1
+NRB,"",Narbonne - Croix Sud,"",43.165258,2.988403,Europe/Paris,1
+FGR,"",Figueras,"",42.264957,2.967383,Europe/Madrid,1
+BCS,"",Barcelona - Sants Train station,"",41.379715,2.138935,Europe/Madrid,1
+TLA,"",Toulouse - Blagnac Airport Bus Station,"",43.630144,1.375458,Europe/Paris,1
+SAL,"",Sallanches P+R,Your stop is near the park-and-ride.,45.961747,6.630194,Europe/Paris,1
+SGP,"",St-Gervais-les-Bains - Le Pont,"",45.894720,6.710810,Europe/Paris,1
+XSN,"",Saint-Nazaire,"",47.285531,-2.212690,Europe/Paris,1
+SDN,"",Sedan,"",49.695233,4.930713,Europe/Paris,1
+CVM,"",Charleville-Mézières,"",49.768810,4.724886,Europe/Paris,1
+FBH,"",Forbach,"",49.188599,6.899872,Europe/Paris,1
+XLZ,"",Lannemezan,"",43.114340,0.387811,Europe/Paris,1
+STG,"",Saint-Gaudens,"",43.105087,0.728974,Europe/Paris,1
+MDS,"",Madrid - South Station,"",40.394264,-3.677721,Europe/Madrid,1
+MDA,"",Madrid - Avénida de America,"",40.438469,-3.675941,Europe/Madrid,1
+BLB,"",Bilbao,Your bus station is located underground.,43.261310,-2.949953,Europe/Madrid,1
+BLG,"",Boulogne-sur-Mer,"",50.715587,1.609137,Europe/Paris,1
+ALI,"",Lisbon - Sete Rios,Zoological Garden stop,38.742098,-9.168330,Europe/Lisbon,1
+ALE,"",Lisbon - Oriente,Platform 28C,38.767621,-9.101271,Europe/Lisbon,1
+ADT,"",Dortmund - Bus Station,"",51.519502,7.459241,Europe/Berlin,1
+ADU,"",Düsseldorf - Bus Station,"",51.222885,6.795559,Europe/Berlin,1
+AKA,"",Karlsruhe - Central Station South Side,"",48.991578,8.400345,Europe/Berlin,1
+ATT,"",Stuttgart - Airport Bus Station,"",48.691806,9.196691,Europe/Berlin,1
+AFR,"",Frankfurt - Main Bus Station,"ATTENTION: Your BlaBlaCar bus departs from stop area C ""Neuer Fernbusbahnhof"". Buses of the Marino company departs from bus stop area D ""Stuttgarter Straße"".",50.104489,8.662546,Europe/Berlin,1
+ABD,"",Breda,"",51.596492,4.778302,Europe/Amsterdam,1
+ADO,"",Dover - Ferry,"",51.127132,1.329641,Europe/London,1
+CLS,"",Cluses,"",46.061484,6.582344,Europe/Paris,1
+BRI,"",Bari - Giuseppe Capruzzi Bus Stop,"",41.116986,16.871423,Europe/Rome,1
+BOL,"",Bologna - Bus Station,"",44.503935,11.346888,Europe/Rome,1
+MHM,"",Mannheim - Bus Station,"",49.478279,8.472825,Europe/Berlin,1
+MSY,"",Paris - Massy-Palaiseau Vilmorin Bus,"CAUTION: Due to works on the RER B line, your stop will be moved to 200m, Place Pierre Sémart, from 15 July to 27 August inclusive (48.725091, 2.256147)",48.725759,2.256828,Europe/Paris,1
+STE,"",Saintes,"Your stop is located next to the carpooling area of Saintes - Brûlerie, facing the GIFI store.",45.755573,-0.652138,Europe/Paris,1
+VNT,"",Venice - Tronchetto Bus Station,"",45.442127,12.308168,Europe/Rome,1
+VNM,"",Venice - Mestre Bus Station,"",45.482412,12.233591,Europe/Rome,1
+LMB,"",Lamballe,"",48.466415,-2.510363,Europe/Paris,1
+SBG,"",Sarrebourg,Your stop is located at the bus stop Terrasses de la Sarre in the ZAC Les Terrasses La Sarre.,48.718824,7.047491,Europe/Paris,1
+CRO,"",Crolles - Le Rafour,"",45.269610,5.893234,Europe/Paris,1
+RCF,"",Rochefort,Transport: Shuttles leave every 20 minutes for the city centre.,45.965083,-0.959447,Europe/Paris,1
+CBH,"",Capbreton - Hossegor,"Your stop is located near the train station square, boulevard des Cigales.",43.641131,-1.425719,Europe/Paris,1
+STL,"",Saint-Lô,"",49.117083,-1.098937,Europe/Paris,1
+LEN,"",Lens,Your stop is located in the bus station opposite the Auguste Behal vocational school.,50.443685,2.823304,Europe/Paris,1
+BDL,"",Bandol,"Due to road services, the stop will be made at ""Gare routière"", 2 Place Lucien Artaud, 83150 Bandol",43.139340,5.766320,Europe/Paris,1
+XET,"",Étretat,Important:  Departures take place on Parking du Grand Val.,49.705056,0.208536,Europe/Paris,1
+TPI,"",La Tour du Pin - Gare,"",45.560500,5.449706,Europe/Paris,1
+WAL,"",Parc Loisirs Walibi,"",45.619381,5.570126,Europe/Paris,1
+OST,"",Ostend,The busstop is located just in front of the Casino.,51.231251,2.912640,Europe/Brussels,1
+MUN,"",Munich - Fröttmaning,"",48.210560,11.618500,Europe/Berlin,1
+ULM,"",Ulm - Bus Station,"",48.425861,10.010417,Europe/Berlin,1
+LSO,"",Les Sables-d'Olonne,"",46.500903,-1.781867,Europe/Paris,1
+MSD,"",Milan - San Donato Bus Station,"",45.429300,9.256240,Europe/Rome,1
+FRZ,"",Florence - Villa Constanza Bus Station,"",43.755205,11.172215,Europe/Rome,1
+ARN,"",Nantes - Airport - Arrivals Zone 1,"",47.157885,-1.600683,Europe/Paris,1
+COD,"",Cordoba,"",37.889359,-4.790200,Europe/Madrid,1
+AGN,"",Agen - Carpooling Stop,"",44.166755,0.605773,Europe/Paris,1
+LYB,"",Lyon - Bellecour,"",45.757397,4.829999,Europe/Paris,1
+TVC,"",Tignes - Val Claret,"",45.456962,6.901762,Europe/Paris,1
+STA,"",Saint-Avre,"",45.352578,6.303680,Europe/Paris,1
+ARO,"",Arlon,Your stop is located on the parking of the Maison de la Culture.,49.679051,5.802875,Europe/Brussels,1
+NAM,"",Namur,"",50.466557,4.870933,Europe/Brussels,1
+TRR,"",Tarragona - Bus Station,"",41.118240,1.244223,Europe/Madrid,1
+ABY,"",Barcelona - Airport Prat T1,"Attention: Departures are at terminal 1, level 0. At the departure point for international buses, platforms 1 to 9.",41.287683,2.072907,Europe/Madrid,1
+CAT,"",Castets,"",43.877121,-1.143440,Europe/Paris,1
+SLG,"",Sallanches - Bus Station,"",45.935501,6.636279,Europe/Paris,1
+AHO,"",Alpe d'Huez - Oz-en-Oisans,"",45.128193,6.071066,Europe/Paris,1
+ACD,"",Lisbon - Humberto Delgado Airport,Coach parking,38.768613,-9.128337,Europe/Lisbon,1
+VMV,"",Village de Marque Villefontaine,"",45.625441,5.162257,Europe/Paris,1
+ACW,"",Madrid - Barajas Airport T4,"Follow the signs to the Bus Terminal, located at the end of the T4 parking lot.",40.495210,-3.594961,Europe/Madrid,1
+LGB,"",Le Grand-Bornand,"",45.941625,6.428940,Europe/Paris,1
+FLE,"",Filliere,"",45.992600,6.128700,Europe/Paris,1
+SCZ,"",Sciez,"",46.331879,6.374747,Europe/Paris,1
+THE,"",Thônes,"",45.883062,6.324213,Europe/Paris,1
+DVE,"",Douvaine,"",46.306121,6.302465,Europe/Paris,1
+LCZ,"",La Clusaz,"",45.905712,6.421598,Europe/Paris,1
+RGR,"",Reignier,"",46.137400,6.270100,Europe/Paris,1
+RSF,"",La Roche-sur-Foron,"",46.068000,6.303500,Europe/Paris,1
+TLB,"",Thonon-les-Bains,Attention new stop,46.369364,6.480503,Europe/Paris,1
+STS,"",Saint-jean-de-sixt,"",45.922542,6.410724,Europe/Paris,1
+BNV,"",Bonneville,"",46.077700,6.416500,Europe/Paris,1
+CRU,"",Cruseilles,"",46.032900,6.106800,Europe/Paris,1
+ACZ,"",Genève P+R Etoile,Please note: Go to Parking P1.,46.187400,6.128100,Europe/Zurich,1
+ADC,"",Voiron - Champfeuillet,Arrêt bus Champfeuillet Terminus - Niveau Parking P+R.,45.349944,5.567751,Europe/Paris,1
+ADB,"",Saint-Egrève,Bus stop San Marino-Barrage Direction Lyon located at the roundabout zone Cap 38 exit N°14 from the A48 - Direction Grenoble stop located at the roundabout on the Isère river side.,45.236881,5.663025,Europe/Paris,1
+AUC,"",Auch,"",43.646547,0.596486,Europe/Paris,1
+IJO,"",L'Isle-Jourdain,"Please note: In the direction Auch - Toulouse, the stop is opposite the pharmacie des Quatre Chemins. In the direction Toulouse - Auch, the bus stops in front of the Post Office.",43.613734,1.083414,Europe/Paris,1
+GIM,"",Gimont,"",43.627414,0.877381,Europe/Paris,1
+CLU,"",Cluses - La Maladière,"",46.049300,6.595100,Europe/Paris,1
+FOU,"",Fougères,"",48.347869,-1.191339,Europe/Paris,1
+MCA,"",Murcia,"",37.986203,-1.139043,Europe/Madrid,1
+TAL,"",Talange,"",49.236342,6.168460,Europe/Paris,1
+MOR,"",Morsbach,"",49.168060,6.868330,Europe/Paris,1
+SAV,"",Saint-Avold,"",49.105240,6.707820,Europe/Paris,1
+ROS,"",Rosbruck,"",49.159869,6.852074,Europe/Paris,1
+UCK,"",Uckange,"",49.300622,6.162833,Europe/Paris,1
+FLG,"",Florange,"",49.328581,6.152648,Europe/Paris,1
+HAG,"",Hagondange,"",49.248481,6.170155,Europe/Paris,1
+SAR,"",Saarbrücken - Dudweilerstraße Bus Station,"",49.241789,7.000133,Europe/Berlin,1
+AMN,"",Amnéville,"",49.242451,6.134831,Europe/Paris,1
+HHA,"",Hombourg Haut,"",49.124440,6.773610,Europe/Paris,1
+RVD,"",Ile de Ré - Rivedoux,Your bus stop is located in front of L'Oasis Restaurant.,46.162340,-1.258432,Europe/Paris,1
+SMR,"",Ile de Ré - Saint-Martin-de-Ré,"",46.199060,-1.359252,Europe/Paris,1
+FLT,"",Ile de Ré - La Flotte,"",46.182611,-1.314343,Europe/Paris,1
+SGN,"",Sigean,"",43.023762,2.980141,Europe/Paris,1
+MLC,"",Montluçon - Bus Station,"",46.337673,2.597277,Europe/Paris,1
+GIE,"",Giessen - Liebigstrasse Bus Station,"",50.581229,8.666096,Europe/Berlin,1
+BER,"",Berlin - Bus Station,"",52.507446,13.279761,Europe/Berlin,1
+BRM,"",Bremen - Bus Station,"Bus platform 8 - at high load Bus platform 6, 7 or 9.",53.084008,8.807204,Europe/Berlin,1
+MDB,"",Magdeburg,Platform 7 - another bus platform at high load!,52.131244,11.624232,Europe/Berlin,1
+MUZ,"",Munich - Bus Station,"",48.142453,11.550066,Europe/Berlin,1
+FFA,"",Frankfurt - Airport Bus Station,"",50.052761,8.577535,Europe/Berlin,1
+NUR,"",Nuremberg - Bus Station,Central bus station at Adcom-Center (stops 1-9).,49.447800,11.085988,Europe/Berlin,1
+HAM,"",Hamburg - Bus Station,"",53.552107,10.011099,Europe/Berlin,1
+CVN,"",Cavaillon,"",43.835557,5.043082,Europe/Paris,1
+EIN,"",Eindhoven,"",51.445634,5.480959,Europe/Amsterdam,1
+MEN,"",Menton - Bus Station,"",43.777407,7.494048,Europe/Paris,1
+LVD,"",Le Lavandou,"",43.138180,6.364215,Europe/Paris,1
+ARH,"",Arnhem,"",51.985619,5.899602,Europe/Amsterdam,1
+CHM,"",Chaumont,"",48.109991,5.133775,Europe/Paris,1
+ADP,"",Saint-Dié-des-Vosges,"",48.282550,6.947546,Europe/Paris,1
+VTL,"",Vittel,"",48.202363,5.942549,Europe/Paris,1
+STD,"",Saint-Dizier,"",48.642280,4.947813,Europe/Paris,1
+EPL,"",Epinal,ATTENTION: New Bus Station stop Quai A,48.177759,6.442057,Europe/Paris,1
+ANC,"",Ancona - Z.I. Baraccola Bus Stop,"",43.537170,13.512180,Europe/Rome,1
+BGM,"",Bergamo - PIazzale Marconi Bus Station,"",45.691614,9.676209,Europe/Rome,1
+LUG,"",Lugano,The stop is located in the Bus parking lot opposite the soccer pitches.,46.023149,8.963815,Europe/Paris,1
+ESC,"",Esch-sur-Alzette,"",49.507720,5.992280,Europe/Luxembourg,1
+PAM,"",Pont-à-Mousson,"",48.901179,6.051593,Europe/Paris,1
+MOD,"",Modena Terminal Gottardi,"",44.630645,10.950415,Europe/Rome,1
+BSA,"",Brescia - North Bus Station,"",45.532978,10.215109,Europe/Rome,1
+ESS,"",Essen - Bus Station,"",51.450257,7.014914,Europe/Berlin,1
+CIB,"",Saint-Jean-de-Luz - Ciboure,"",43.383354,-1.690519,Europe/Paris,1
+GPV,"",Genoa - Piazza della Vittoria Bus Stop,"",44.403634,8.945910,Europe/Rome,1
+GTG,"",Göttingen - Bus Station,"",51.535361,9.925815,Europe/Berlin,1
+LER,"",Leer - Georgstrasse Bus Station,"",53.231110,7.462406,Europe/Berlin,1
+STV,"",Sartrouville,"",48.937227,2.159144,Europe/Paris,1
+XXA,"",Aachen - Henricistraße,"",50.783577,6.072511,Europe/Berlin,1
+BOO,"",Bonn,"",50.712675,7.120416,Europe/Berlin,1
+CNL,"",Cologne North - Leverkusen,"",51.032446,6.990105,Europe/Berlin,1
+GEV,"",Geneva - Eaux-Vives,"",46.202547,6.155447,Europe/Zurich,1
+MBP,"",Metz - Poincaré,"",49.116830,6.168810,Europe/Paris,1
+BHB,"",Berlin - Central Train Station,Bus stop at Europaplatz.,52.526699,13.368687,Europe/Berlin,1
+MRT,"",Martigny,"",46.104542,7.074804,Europe/Paris,1
+SIO,"",Sion,"",46.227832,7.360776,Europe/Paris,1
+CHP,"",Champigny-sur-Marne,"",48.812696,2.532481,Europe/Paris,1
+PLO,"",Pont des Loyers - Les Contamines,"",45.816667,6.727500,Europe/Paris,1
+VSL,"",Versailles,"",48.790505,2.118242,Europe/Paris,1
+NAQ,"",Nancy - Quai Sainte-Catherine,"",48.694817,6.190492,Europe/Paris,1
+BIS,"",Biarritz - Gare SNCF,"",43.459343,-1.546311,Europe/Paris,1
+FEC,"",Fécamp,"",49.759237,0.375193,Europe/Paris,1
+PDS,"",Paris - Pont de Sèvres,"",48.829799,2.229981,Europe/Paris,1
+BZO,"",Berlin - Zoo,"",52.508520,13.333965,Europe/Berlin,1
+CSM,"",Cavalaire-sur-Mer,Accès : Please note that the stop is staggered depending on the direction of arrival of the bus. Please be careful.,43.172300,6.529489,Europe/Paris,1
+SMX,"",Sainte-Maxime,"",43.315215,6.633220,Europe/Paris,1
+CAA,"",Charleroi - Airport,"",50.470350,4.471349,Europe/Brussels,1
+SGS,"",Sitges,"",41.238822,1.809337,Europe/Madrid,1
+ROZ,"",Rouen - Zénith Parc Expo,"",49.392075,1.058798,Europe/Paris,1
+AOS,"",Aosta,"",45.735249,7.324412,Europe/Rome,1
+PDG,"",Port Grimaud,"",43.275377,6.578922,Europe/Paris,1
+LON,"",Lorient Lanester,"",47.777878,-3.342159,Europe/Paris,1
+QUE,"",Quimper Est (Le Rouillen),"",47.999198,-4.052045,Europe/Paris,1
+CAG,"",Calais - Port,"",50.973154,1.878032,Europe/Paris,1
+PSL,"",Polley Secured Lorry Park,"",50.941216,1.945569,Europe/Paris,1
+PDL,"",Paris - Pont de Levallois,Access: Metro 3: Our stop is 1 min walk from the terminus of line 3 (Pont de Levallois - Bécon).,48.897742,2.281255,Europe/Paris,1
+SVA,"",Savona,"",44.306934,8.471498,Europe/Rome,1
+MLF,"",Marseille - Fourragère,"",43.304087,5.423501,Europe/Paris,1
+GIR,"",Girona - Costa Brava Airport," Information:During the day, the stop is at the bus station on level -1. At night, you will have to go outside ",41.979044,2.815450,Europe/Madrid,1
+BAS,"",Barèges,"",42.896211,0.062642,Europe/Paris,1
+LBD,"",Le Bourg d'Oisans,"",45.058508,6.028597,Europe/Paris,1
+LSS,"",Luz-Saint-Sauveur,"",42.873332,-0.002436,Europe/Paris,1
+LSA,"",La Salle les Alpes,"",44.946106,6.560233,Europe/Paris,1
+TRC,"",Tourcoing,"",50.721390,3.163059,Europe/Paris,1
+LGV,"",La Grave,"",45.046083,6.307333,Europe/Paris,1
+ZAG,"",Zagreb - Bus Station,"Departures are from platform 505. On the display screen, your bus is called Comuto Pro",45.803417,15.992278,Europe/Zagreb,1
+SRO,"",Sanremo - Bus Stop,"",43.814230,7.771806,Europe/Rome,1
+AMC,"",Amiens - Campus (Salouël),"",49.874368,2.265054,Europe/Paris,1
+XBK,"",Berck-sur-Mer,"",50.408060,1.568589,Europe/Paris,1
+LPY,"",La Palmyre,"",45.689766,-1.176762,Europe/Paris,1
+PET,"",Pornichet,Bus Station,47.260833,-2.335360,Europe/Paris,1
+VBB,"",Vieux-Boucau-les Bains,"",43.789530,-1.400847,Europe/Paris,1
+MEM,"",Moliets-et-Maa,"",43.848734,-1.358110,Europe/Paris,1
+POR,"",Porto - TIC Campanhã,"",41.151862,-8.582442,Europe/Lisbon,1
+ABR,"",Braga,"",41.556130,-8.425170,Europe/Lisbon,1
+ROM,"",Rome - Tiburtina,"",41.909530,12.528271,Europe/Rome,1
+VRN,"",Verona - Bus Stop,"",45.430902,10.977553,Europe/Rome,1
+TST,"",Trieste,"",45.657031,13.770933,Europe/Rome,1
+AQU,"",L'Aquila,"",42.360447,13.377318,Europe/Rome,1
+TER,"",Teramo - Piazza San Francesco,"",42.660472,13.706954,Europe/Rome,1
+TPG,"",Teramo - Piazza Garibaldi,"",42.661585,13.698357,Europe/Rome,1
+GRA,"",Granville,"",48.838235,-1.587746,Europe/Paris,1
+CTC,"",Coutances,"",49.043423,-1.441394,Europe/Paris,1
+BYX,"",Bayeux,"",49.269814,-0.697742,Europe/Paris,1
+ACP,"",Amiens - Salouël Campus,"",49.874453,2.264734,Europe/Paris,1
+CRM,"",Courmayeur,"",45.791332,6.970461,Europe/Paris,1
+XDI,"",Dijon,Slot 17,47.324051,5.027794,Europe/Paris,1
+XAU,"",Auray,North car park footbridge,47.680947,-2.999566,Europe/Paris,1
+CCN,"",Concarneau,"",47.873996,-3.917876,Europe/Paris,1
+LBY,"",La Baule,"",47.288383,-2.391656,Europe/Paris,1
+CRN,"",Carnac,"",47.000000,-3.000000,Europe/Paris,1
+QON,"",Quiberon,"",47.485969,-3.119067,Europe/Paris,1
+RSY,"",La Roche-sur-Yon,"",46.673121,-1.435259,Europe/Paris,1
+PRC,"",Pornic,"",47.114349,-2.097952,Europe/Paris,1
+AST,"",Santander,"",43.459518,-3.809680,Europe/Paris,1
+AOV,"",Oviedo,"",43.369175,-5.850884,Europe/Paris,1
+ALC,"",A Coruña,"",43.353256,-8.405308,Europe/Paris,1
+ASA,"",Santiago de Compostela - Bus Station,"",42.869917,-8.544112,Europe/Paris,1
+AVG,"",Vigo - Bus Station,"",42.234620,-8.713703,Europe/Paris,1
+ABS,"",Valencia - Bus Station,Platform 41,39.480533,-0.387409,Europe/Madrid,1
+ACX,"",Zaragoza,"",41.659501,-0.911349,Europe/Madrid,1
+LJU,"",Ljubljana,Platform 21 / 22,46.057840,14.511436,Europe/Ljubljana,1
+ARR,"",Arras,"",50.297778,2.779558,Europe/Paris,1
+ABT,"",Alicante,Alicante's Bus Station,38.337611,-0.491490,Europe/Paris,1
+ARL,"",Arles,"",43.673411,4.625296,Europe/Paris,1
+MIR,"",Mirandela,"",41.481265,-7.180843,Europe/Lisbon,1
+AVR,"",Vila Real,"",41.299746,-7.749872,Europe/Lisbon,1
+AAM,"",Amarante,"",41.266060,-8.072211,Europe/Lisbon,1
+SEL,"",Basel,"",47.546101,7.589041,Europe/Zurich,1
+ZRC,"",Zürich,"",47.381190,8.537474,Europe/Zurich,1
+XCC,"",Le Cannet,"",43.570898,7.014582,Europe/Paris,1
+XLB,"",Le Barcarès,"",42.789048,3.035265,Europe/Paris,1
+XMF,"",Montbéliard,"",47.508948,6.801954,Europe/Paris,1
+ABW,"",Benidorm - Bus Station,Platform 27,38.550283,-0.125306,Europe/Madrid,1
+ABZ,"",Castellon,"",39.988933,-0.051424,Europe/Madrid,1
+AVA,"",Valladolid,"The Valladolid bus station is open from 05:30 to 23:30 Monday to Friday, and from 05:30 to 00:30 on Saturdays, Sundays and public holidays. Outside these hours, buses stop outside the station.",41.641141,-4.732084,Europe/Madrid,1
+GRN,"",Groningen,"",53.211663,6.566262,Europe/Amsterdam,1
+LGM,"",La Grande-Motte,"",43.563196,4.091657,Europe/Paris,1
+AAY,"",La Spezia,"",44.113780,9.847470,Europe/Rome,1
+NCS,"",Narbonne - Bus Station,"",43.187853,3.003274,Europe/Paris,1
+NCC,"",Nice Vauban - Bus Station,"",43.708480,7.285966,Europe/Paris,1
+ARK,"",Milan Bergamo - Airport,"",45.665750,9.697250,Europe/Rome,1
+CAH,"",Cahors,"",44.451242,1.438392,Europe/Paris,1
+XCX,"",Carhaix-Plouguer Festival,"",48.280116,-3.561474,Europe/Paris,1
+EFS,"",Sermamagny - Festival Eurockéennes,"",47.683746,6.814108,Europe/Paris,1
+GAM,"",Garorock - Marmande,"",44.502610,0.168189,Europe/Paris,1
+CLI,"",Clisson - Hellfest,"",47.110840,-1.293335,Europe/Paris,1
+SLZ,"",Salzburg P&R South,"",47.769222,13.070997,Europe/Vienna,1
+AUG,"",Augsburg - Biberbachstrasse Bus Station,"",48.401680,10.876999,Europe/Berlin,1
+LEL,"",Legoland Deutschland,"",48.425696,10.299955,Europe/Berlin,1
+BSV,"",Bratislava,"ATTENTION from Monday, October 13 inclusive : Service 30499 Platform No. 3 & Service 30498 Platform No. 11",48.146782,17.128777,Europe/Bratislava,1
+VIE,"",Vienna - Bus Station,Platform No. 2,48.190755,16.414215,Europe/Vienna,1
+PIL,"",Pilsen - Husova Central Bus Station,"",49.746331,13.362978,Europe/Prague,1
+PRF,"",Prague - Florenc Main Bus Terminal,"",50.089361,14.440614,Europe/Prague,1
+ANJ,"",Andújar,"",38.039498,-4.045471,Europe/Madrid,1
+EJC,"",Écija,"",37.532029,-5.084887,Europe/Madrid,1
+TOS,"",Tordesillas,"",41.502856,-5.004616,Europe/Madrid,1
+AVL,"",Ávila,"",40.659085,-4.682273,Europe/Madrid,1
+SQT,"",Saint-Quentin,"",49.840454,3.297612,Europe/Paris,1
+HEI,"",Heidelberg,"",49.406122,8.673125,Europe/Berlin,1
+WUP,"",Wuppertal,"",51.275225,7.223761,Europe/Berlin,1
+HAN,"",Hanover,"",52.378947,9.741248,Europe/Berlin,1
+GYR,"",Győr,"",47.681384,17.636523,Europe/Budapest,1
+BIL,"",Bielefeld,"",51.997884,8.499594,Europe/Berlin,1
+KOB,"",Koblenz,"",50.349269,7.589904,Europe/Berlin,1
+NAS,"",Naples - Bus Station,"",40.851143,14.274977,Europe/Rome,1
+DIF,"",Differdange,"",49.520709,5.899611,Europe/Luxembourg,1
+MMN,"",Montemor-o-Novo,"",38.648837,-8.211316,Europe/Lisbon,1
+TOL,"",Toledo,"",39.865422,-4.020036,Europe/Madrid,1
+STB,"",Setúbal,"",38.525805,-8.889506,Europe/Lisbon,1
+ELV,"",Elvas,"",38.878125,-7.168441,Europe/Lisbon,1
+SIN,"",Sintra,"",38.802412,-9.377117,Europe/Lisbon,1
+CAS,"",Cascais,"",38.737521,-9.394960,Europe/Lisbon,1
+BUD,"",Budapest - Népliget,Platform 5,47.474982,19.098993,Europe/Budapest,1
+BIA,"",Bastia,"",42.702463,9.451531,Europe/Paris,1
+CIO,"",Ajaccio,"",41.922809,8.739658,Europe/Paris,1
+LVI,"",Calvi,"",42.565715,8.756045,Europe/Paris,1
+BIO,"",Bonifacio,"",41.389322,9.165334,Europe/Paris,1
+PVC,"",Porto-Vecchio,"",41.591990,9.283839,Europe/Paris,1
+GAP,"",Gap,"Your bus stop is in front of SNCF train station, Platform n°3",44.563309,6.085823,Europe/Paris,1
+MGE,"",Montdauphin - Guillestre,"",44.674680,6.615902,Europe/Paris,1
+SIS,"",Sisteron,"",44.190297,5.946206,Europe/Paris,1
+MAQ,"",Manosque,"",43.823244,5.793073,Europe/Paris,1
+RDZ,"",Rodez,"",44.362346,2.582118,Europe/Paris,1
+LBI,"",Albi,"",43.917115,2.117423,Europe/Paris,1
+NEM,"",Nemours,"",48.267886,2.685989,Europe/Paris,1
+ARP,"",Arpajon,"",48.586521,2.245413,Europe/Paris,1
+LEI,"",Leipzig,"",51.345205,12.385022,Europe/Berlin,1
+AAL,"",Algeciras,"",36.129830,-5.441387,Europe/Madrid,1
+ACC,"",Badajoz,"",38.866574,-6.974121,Europe/Madrid,1
+CHS,"",Charleroi - Sud,"",50.403762,4.437956,Europe/Brussels,1
+BUK,"",Budapest - Kelenföld,Platform 1,47.463490,19.022745,Europe/Budapest,1
+ABA,"",Bailen,"",38.092045,-3.777185,Europe/Madrid,1
+ABU,"",Burgos,"",42.338250,-3.701233,Europe/Madrid,1
+ACA,"",Caceres,"",39.460173,-6.382434,Europe/Madrid,1
+AGR,"",Ciudad Rodrigo,"",40.601641,-6.531847,Europe/Madrid,1
+AHU,"",Huelva,"",37.257467,-6.957569,Europe/Madrid,1
+AML,"",Malaga,"",36.712184,-4.434517,Europe/Madrid,1
+AME,"",Merida,"",38.914714,-6.357817,Europe/Madrid,1
+ASN,"",Salamanca,"",40.970416,-5.674880,Europe/Madrid,1
+ASE,"",Sevilla Plaza de Armas,"",37.391871,-6.003953,Europe/Madrid,1
+VTR,"",Vitoria,"",42.859118,-2.684330,Europe/Madrid,1
+ALN,"",A Cañiza,"",42.213940,-8.272517,Europe/Madrid,1
+ARU,"",A Rúa,"",42.392760,-7.113284,Europe/Madrid,1
+ABX,"",Almuradiel,"",38.510204,-3.498030,Europe/Madrid,1
+AAS,"",Astorga,"",42.458737,-6.056159,Europe/Madrid,1
+BAZ,"",Baza,"",37.492022,-2.775357,Europe/Madrid,1
+ABE,"",Benavente,"",41.998825,-5.676734,Europe/Madrid,1
+CVI,"",Collado Villalba,"",40.633367,-4.005110,Europe/Madrid,1
+GDN,"",Granada,"",37.199570,-3.614073,Europe/Madrid,1
+GUA,"",Guadix,"",37.299888,-3.128036,Europe/Madrid,1
+AGD,"",Gudina,"",42.059714,-7.131193,Europe/Madrid,1
+LTB,"",Antwerp - Luchtbal,"",51.263169,4.418152,Europe/Brussels,1
+AJA,"",Jaen,"",37.771232,-3.787113,Europe/Madrid,1
+ACB,"",La Línea de la Concepción - Bus Station,"",36.157970,-5.349993,Europe/Madrid,1
+AEL,"",León,"",42.593449,-5.579197,Europe/Madrid,1
+LRM,"",Lerma,"",42.024616,-3.764318,Europe/Madrid,1
+XLL,"",Lloret de Mar,"",41.700923,2.842141,Europe/Madrid,1
+LCA,"",Lorca,"",37.671233,-1.697017,Europe/Madrid,1
+SOK,"",Siófok,"",46.907891,18.055412,Europe/Budapest,1
+MDM,"",Madrid - Avénida de America,"",40.438469,-3.675941,Europe/Madrid,1
+AMA,"",Marbella,"",36.519545,-4.892542,Europe/Madrid,1
+AMO,"",Monforte de Lemos,"",42.526915,-7.508303,Europe/Madrid,1
+AMR,"",Motril,"",36.741338,-3.511563,Europe/Madrid,1
+APC,"",Palencia,"",42.016287,-4.538219,Europe/Madrid,1
+ZAM,"",Zamora,"",41.513936,-5.739048,Europe/Madrid,1
+AOR,"",Ourense,"",42.352410,-7.879200,Europe/Madrid,1
+PPE,"",Pamplona,"",42.811834,-1.645487,Europe/Madrid,1
+APA,"",Plasencia,"",40.254897,-5.691740,Europe/Madrid,1
+APF,"",Ponferrada,"",42.553078,-6.601418,Europe/Madrid,1
+APN,"",Pontevedra,"",42.421108,-8.637263,Europe/Madrid,1
+APS,"",Puebla de Sanabria,"",42.060820,-6.639897,Europe/Madrid,1
+BRT,"",Abrantes,"",39.462967,-8.197545,Europe/Lisbon,1
+MST,"",Maastricht,"",50.852501,5.705737,Europe/Amsterdam,1
+AGB,"",Albergaria,"",40.689469,-8.475466,Europe/Lisbon,1
+ALU,"",Albufeira,"",37.091650,-8.255178,Europe/Lisbon,1
+AAR,"",Arcos,"",41.849676,-8.423100,Europe/Lisbon,1
+AVE,"",Aveiro,Platform n°11,40.644037,-8.639200,Europe/Lisbon,1
+BRA,"",Bragança,"",41.808166,-6.760525,Europe/Lisbon,1
+CSO,"",Castelo Branco,"",39.818722,-7.489639,Europe/Lisbon,1
+CDE,"",Celorico da Beira,"",40.626588,-7.401443,Europe/Lisbon,1
+ACH,"",Chaves,"",41.745634,-7.468554,Europe/Lisbon,1
+ACO,"",Coimbra,"",40.220705,-8.439670,Europe/Lisbon,1
+CVA,"",Covilha,"",40.273824,-7.497704,Europe/Lisbon,1
+AFA,"",Faro,"Stop located on the Abu São Ibn Harune promenade, behind the Próximo bus terminal, at the bus parking level.",37.016853,-7.938175,Europe/Lisbon,1
+AFT,"",Fatima,"",39.627693,-8.670589,Europe/Lisbon,1
+FNO,"",Fundao,"",40.140882,-7.497869,Europe/Lisbon,1
+AGA,"",Guarda,"",40.534367,-7.263578,Europe/Lisbon,1
+PAT,"",Porto - Airport,"",41.235425,-8.669634,Europe/Lisbon,1
+AGU,"",Guimarães,"",41.416085,-8.291641,Europe/Lisbon,1
+ALA,"",Lagos,Lagos Bus Terminal – Platform No. 4,37.107739,-8.676114,Europe/Lisbon,1
+ALR,"",Leiria,Bus Stop,39.750198,-8.807529,Europe/Lisbon,1
+MAC,"",Macedo,"",41.533634,-6.968063,Europe/Lisbon,1
+MEO,"",Melgaço,"",42.111708,-8.257236,Europe/Lisbon,1
+MOO,"",Monção,"",42.076557,-8.489251,Europe/Lisbon,1
+POM,"",Pombal,"",39.916245,-8.630946,Europe/Lisbon,1
+APL,"",Ponte de Lima,Platform n°22,41.759944,-8.579915,Europe/Lisbon,1
+APO,"",Portimao,"",37.148554,-8.536107,Europe/Lisbon,1
+XPT,"",Porto Campo 24 Agosto,"",41.149080,-8.599911,Europe/Lisbon,1
+APR,"",Porto Casa da Música,"",41.161072,-8.629643,Europe/Lisbon,1
+SMF,"",Santa Maria Da Feira,"",40.925623,-8.560714,Europe/Lisbon,1
+STM,"",Santarem,"",39.236210,-8.687715,Europe/Lisbon,1
+XTN,"",Torres Novas,"",39.478365,-8.536261,Europe/Lisbon,1
+VDC,"",Viana do Castelo,"",41.694108,-8.833171,Europe/Lisbon,1
+VNG,"",Vila Nova de Gaia,"",41.127371,-8.605276,Europe/Lisbon,1
+AVO,"",Vila Pouca,"",41.502011,-7.641144,Europe/Lisbon,1
+VLF,"",Vilar Formoso,"",40.607391,-6.826986,Europe/Lisbon,1
+AVS,"",Viseu,"",40.661416,-7.915974,Europe/Lisbon,1
+ADA,"",Faro Airport - Parking P5,Stop located in the P5 - Parking Bus,37.022214,-7.968608,Europe/Lisbon,1
+TIA,"",Tavira,"",37.127026,-7.652666,Europe/Lisbon,1
+XCH,"",Chartres,"",48.446440,1.482839,Europe/Paris,1
+BEP,"",Bellegarde - Vouvray,"",46.115322,5.794642,Europe/Paris,1
+VES,"",Valognes,"",49.510718,-1.477280,Europe/Paris,1
+XBB,"",Bourg-en-Bresse,"",46.199344,5.215359,Europe/Paris,1
+XGS,"",Givors (Lyon Sud),"The stop is located opposite the charging stations, at the blue ""Rive de Gier, St Etienne"" freeway sign.",45.590260,4.770591,Europe/Paris,1
+BNE,"",Bern,"",46.963875,7.434011,Europe/Zurich,1
+FBG,"",Fribourg,"",46.817771,7.157144,Europe/Zurich,1
+VAA,"",Valença,Platform 1&2,42.022503,-8.642618,Europe/Lisbon,1
+SCQ,"",Santiago de Compostela - Airport,"",42.892814,-8.421718,Europe/Madrid,1
+VGO,"",Vigo - Airport,"",42.225976,-8.632918,Europe/Madrid,1
+ALB,"",Albacete,"",38.998514,-1.847590,Europe/Madrid,1
+CRT,"",Carentan-les-Marais,"",49.302355,-1.244438,Europe/Paris,1
+XBL,"",Blois,"",47.614118,1.323893,Europe/Paris,1
+BRN,"",Brussels - North Train Station,"The stop is located on boulevard Albert II, Zone A",50.861855,4.358507,Europe/Brussels,1
+LAE,"",Labenne,"",43.587477,-1.429311,Europe/Paris,1
+ONS,"",Ondres-Océan,"",43.563623,-1.445952,Europe/Paris,1
+LUC,"",Lucerne,"",47.049548,8.313938,Europe/Zurich,1
+AVF,"",to delete VF,"",40.607391,-6.826986,Europe/Lisbon,1
+XLN,"",Lannion,Kermaria bus station,48.726772,-3.455856,Europe/Paris,1
+SSJ,"",Sevilla Santa Justa,"",37.391873,-5.976278,Europe/Madrid,1
+TAS,"",Tarnos,"",43.522672,-1.462530,Europe/Paris,1
+PGC,"",Perros-Guirec,"",48.807630,-3.441578,Europe/Paris,1
+PAL,"",Paimpol,SNCF train station bus stop,48.777234,-3.046423,Europe/Paris,1
+LPV,"",Le Puy-en-Velay,Your boarding platform is no. 4,45.044114,3.893895,Europe/Paris,1
+MCS,"",Málaga - Airport T3 Bus Station,"",36.679188,-4.493210,Europe/Madrid,1
+DOU,"",Dour Festival,"",50.412679,3.762169,Europe/Brussels,1
+SAM,"",Marseille - Saint Antoine,"",43.369570,5.356927,Europe/Paris,1
+TRE,"",Tréguier,"",48.777932,-3.238814,Europe/Paris,1
+VIL,"",Villach,Platform H-F1,46.617836,13.847867,Europe/Vienna,1
+SNV,"",Saumur - North,"",47.305242,-0.035117,Europe/Paris,1
+REG,"",Regensburg,"",49.012503,12.097587,Europe/Berlin,1
+KAS,"",Kassel,"",51.312310,9.448113,Europe/Berlin,1
+BLD,"",Bled,"",46.371240,14.106842,Europe/Ljubljana,1
+GRZ,"",Graz,"",47.036526,15.409882,Europe/Vienna,1
+MAO,"",Maribor,"",46.559223,15.655115,Europe/Ljubljana,1
+ZUA,"",Zurich Airport,"",47.450221,8.563724,Europe/Zurich,1
+BRO,"",BRNO,"",49.193858,16.614391,Europe/Prague,1
+OLO,"",Olomouc Bus Station,"",49.588239,17.285731,Europe/Prague,1
+SZE,"",Szeged Bus Station,"",46.257185,20.140825,Europe/Budapest,1
+SUB,"",Subotica Bus Station,"",46.094858,19.674310,Europe/Belgrade,1
+NOS,"",Novi Sad Bus Station,"Attention: To get access to the plateform, you need to pay the bus station fee is 180 RSD (approx. 1s from No.6 EUR). It be paid only with cash at Novi Sad bus station counters.",45.264503,19.829257,Europe/Belgrade,1
+BEL,"",Belgrade Bus Station,Attention : Fee of 220 RSD (approx. €1.80) must be paid only with cash at Belgrade bus station counters to get access to platforms.,44.810090,20.454276,Europe/Belgrade,1
+OLX,"",Oulx Bus Station,"",45.038748,6.832219,Europe/Rome,1
+SSA,"",San Sebastian - Airport,"",43.356477,-1.793027,Europe/Madrid,1
+THS,"",Thessaloniki - Bus Station,"",40.644239,22.929807,Europe/Athens,1
+SFA,"",Sofia - Bus Station,"",42.710071,23.323195,Europe/Sofia,1
+BFM,"",Paris - Avenue de France,"Access via metro Line 14, Bibliothèque François Mitterrand stop.",48.830428,2.377092,Europe/Berlin,1
+VIN,"",Paris Vincennes - Avenue Dausmenil,"Buses leave from Avenue Daumesnil at the Vincennes castle esplanade. Metro line 1 at 1 km. GPS coordinates: 48.8399, 2.43203",48.839901,2.432033,Europe/Berlin,1
+DAR,"",Darmstadt,"",49.871658,8.628407,Europe/Berlin,1
+TAH,"",Talmont-Saint-Hilaire,"",46.467848,-1.628385,Europe/Paris,1
+BRE,"",Bretignolles-sur-Mer,"",46.628304,-1.857501,Europe/Paris,1
+SHR,"",Saint-Hilaire-de-Riez,"",46.716764,-1.948628,Europe/Paris,1
+JDM,"",Saint-Jean-de-Monts,"",46.790221,-2.060955,Europe/Paris,1
+TSM,"",La Tranche-sur-Mer,"",46.347403,-1.430573,Europe/Paris,1
+GCU,"",Grenoble - Condillac Universités,"",45.189300,5.774446,Europe/Paris,1
+LNG,"",Turin - Lingotto,"",45.026266,7.656547,Europe/Rome,1
+EBA,"",Evian-les-Bains,"",46.401419,6.585941,Europe/Paris,1
+ARA,"",Arras Train Station,"",2.782463,2.782463,Europe/Paris,1
+TUL,"",TULLE,"",45.327803,1.769079,Europe/Paris,1
+BES,"",Brest - Airport - Parking P3/P3Bis,"Parking P3 - P3 Bis, parking fees for your vehicle are included in the price of your ticket.",48.445337,-4.413567,Europe/Paris,1
+LAN,"",Kerivoal - Carpooling area,Return : Arrival Kerivoal - Landivisiau 10.20pm,48.515484,-4.052698,Europe/Paris,1
+PLD,"",St-Eloi - Carpooling area,Return : Arrival St-Eloi - Ploudaniel 10.40pm,48.482870,-4.289832,Europe/Paris,1
+XBG,"",Brest - Gouesnou,"",48.431092,-4.467244,Europe/Paris,1
+EAG,"",Roudourou Stadium - Special football match route - Return : departure 09.30pm,This ticket is valid for the outward and return journey. Return information: departure 09.30pm - arrival Brest 10.55pm,48.565558,-3.162224,Europe/Paris,1
+FPM,"",Florence Piazzale Montelungo,"",43.780795,11.246641,Europe/Rome,1
+SFL,"",Saint-Flour - Train station,"",45.034722,3.106248,Europe/Paris,1
+PTR,"",Pontarlier - Bus station,"",46.901186,6.352099,Europe/Paris,1
+SJG,"",Saint-Julien-en-Genevois - SNCF Station,"",46.142244,6.086009,Europe/Paris,1
+XBR,"",Bressuire,"",46.848536,-0.474591,Europe/Paris,1
+CHL,"","Cholet - ""Cordeliers"" Bus stop","",47.057696,-0.886900,Europe/Paris,1
+LES,"",Lesneven - Intermarché car park,"",48.574960,-4.317163,Europe/Paris,1
+NVO,"",Novara (A4 westbound),West direction,45.470288,8.621395,Europe/Rome,1
+NVE,"",Novara (A4 eastbound),"",45.469840,8.622117,Europe/Rome,1
+AAX,"",Parma Station,"",44.810988,10.327835,Europe/Rome,1
+RJK,"",Rijeka Station,"",45.327982,14.436884,Europe/Zagreb,1
+RVJ,"",Rovinj Station,"",45.080769,13.638740,Europe/Zagreb,1
+PUA,"",Pula Station,"",44.876210,13.855078,Europe/Zagreb,1
+FTR,"",Cape Finisterre,"",42.907735,-9.263331,Europe/Madrid,1
+LAS,"",Saint-Antoine Bus station,Return : Arrival Saint-Antoine - Lannilis xx:xxpm,48.573453,-4.519418,Europe/Paris,1
+BPA,"",Bordeaux - Paludate Bus Stop,"",44.829620,-0.553268,Europe/Paris,1
+XKO,"",Konstanz - Europabrücke bus station,"",47.672200,9.163334,Europe/Berlin,1
+INN,"",Innsbruck,"",47.258408,11.399840,Europe/Vienna,1
+BEA,"",Beaune,"",47.003392,4.853823,Europe/Paris,1
+ABI,"",Padua,"",45.416480,11.883700,Europe/Rome,1
+AAG,"",Trento,The bus stops alongside the car park,46.067938,11.113071,Europe/Rome,1
+LCC,"",Lucca,"",43.838434,10.505000,Europe/Rome,1
+SJM,"",Saint-Jean-de-Maurienne,"",45.277250,6.354937,Europe/Paris,1
+SMM,"",Saint-Michel-de-Maurienne,"",45.217308,6.471438,Europe/Paris,1
+XTH,"",Ax-les-Thermes - Train station,"",42.724839,1.833049,Europe/Paris,1
+FOX,"",Foix - Train station,"",42.969293,1.607254,Europe/Paris,1
+BLN,"",Bollène (highway exit),"",44.289407,4.750708,Europe/Paris,1
+MSN,"",Montbrison - Carpooling area,"",45.636332,4.196994,Europe/Paris,1
+CHX,"",Chenonceaux,"",47.330256,1.067677,Europe/Paris,1
+CHY,"",Cheverny (castle),"",47.497550,1.460170,Europe/Paris,1
+XLO,"",Lyon - Dardilly,"",45.823983,4.762630,Europe/Paris,1
+CHD,"",Chambord (castle),"",47.616043,1.510793,Europe/Paris,1
+ZDB,"",Saint-Aignan (Beauval Zoo),"",47.247699,1.353954,Europe/Paris,1
+BEC,"",Bergerac - Place foiraille,"",44.849356,0.488570,Europe/Paris,1
+VLO,"",Villeneuve-sur-lot (bus station),"",44.401293,0.703175,Europe/Paris,1
+BOU,"",Brioude - Carpooling area,"",45.299441,3.397009,CET,1
+XMM,"",Mont-de-Marsan,"",43.917073,-0.450041,Europe/Paris,1
+AWB,"",Antwerp - Berchem,"",51.201329,4.435723,Europe/Brussels,1
+FRL,"",Ferrol Bus Station,"",43.488390,-8.229222,Europe/Madrid,1
+ATQ,"",Antequera,"",37.023746,-4.562602,Europe/Madrid,1
+JZF,"",Jerez de la Frontera - Bus station,"",36.679543,-6.126479,Europe/Madrid,1
+CDZ,"",Cadiz - Bus station,"",36.527474,-6.285680,Europe/Madrid,1
+PSM,"",El Puerto de Santa Maria - Bus station,"",36.604718,-6.216764,Europe/Madrid,1
+VNC,"",Vila Nova de Cerveira - Bus station,"",41.937849,-8.746262,Europe/Lisbon,1
+VAC,"",Vila do Conde - Bus stop,"",41.359349,-8.739760,Europe/Lisbon,1
+LOZ,"",Lozere - Motorway service area,"",44.870756,3.247836,Europe/Paris,1
+VAF,"",Valenciennes,"",50.363830,3.517938,Europe/Paris,1
+MOS,"",Mons,"",50.455733,3.940955,Europe/Brussels,1
+AMD,"",Almada – Cova da Piedade Metro,Bus stop near Cova da Piedade metro station,38.667903,-9.164611,Europe/Lisbon,1
+BOC,"",Bochum,"",51.479370,7.224681,Europe/Berlin,1
+DSB,"",Duisburg,"",51.428319,6.770644,Europe/Berlin,1
+PPM,"",Paris - Pershing-Porte Maillot Bus Station,"",48.880203,2.282469,Europe/Paris,1
