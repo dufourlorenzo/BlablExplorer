@@ -9,7 +9,7 @@ XGC,"",Geneva - Bus Station,The bus station is a 7 minute walk from Geneva Corna
 GIA,"",Girona - Bus Station,"The entrance to the underground -1 bus station is located in Plaça Joan Brossa. As the station is closed from 23:00 to 5:45, all departures and arrivals during these hours take place at the taxi stop",41.978969,2.817311,Europe/Madrid,1
 XDB,"",Lille - Europe Train Station,"",50.638638,3.076491,Europe/Paris,1
 ZEP,"",London - Victoria Coach Station,Access : Buses are inside the Victoria Coach Station.,51.492513,-0.148349,Europe/London,1
-XYL,"",Lyon - Perrache Bus Station,"Platforms are accessible from level 1, galerie A. Saône side. WARNING: The station is closed between 00:45 and 04:45, the BlaBlaCar bus stop will be located under the Kitchener bridge.",45.749711,4.826788,Europe/Paris,1
+XYL,"",Lyon - Perrache Bus Station,"Level 1 accessible platforms, gallery A. Station closed from 00:45 to 04:45, service under Kitchener Bridge. In mid-January 2026, due to station development, your stop will be transferred to Gerland.",45.749711,4.826788,Europe/Paris,1
 XRF,"",Marseille - Saint-Charles Bus Station,"",43.304179,5.379868,Europe/Paris,1
 XLM,"",Milan - Lampugnano Bus Station,"",45.489769,9.127595,Europe/Rome,1
 XMT,"",Montpellier - Sabines Bus Station,"",43.584233,3.860007,Europe/Paris,1
@@ -21,7 +21,7 @@ QRH,"",Rotterdam,"",51.923531,4.466534,Europe/Amsterdam,1
 XTS,"",Toulouse - Matabiau Bus Station,"ATTENTION: the bus station is closed from 1:00 to 4:30. Substitution: bus stop Pont Matabiau 89 boulevard Pierre Sémard 31500 TOULOUSE.  GPS point: 43.61392540552035, 1.4512734381914663",43.613299,1.452226,Europe/Paris,1
 XUT,"",Torino - Porta Nuova,"Transport: Metro : Line 1 - Station Porta Nuova. Bus : 11, 12, 58, 64, 92 - Bus stop Porta Nuova. Tramway : 4, 9 - Bus stop Porta Nuova",45.062613,7.679807,Europe/Rome,1
 ORY,"",Paris-Orly Airport - Orly Parking P5,"",48.730637,2.364067,Europe/Paris,1
-QJZ,"",Nantes - Haluchère-Batignolles,"Transport : From the city center : Take Tram 1 direction ""Beaujoire/Ranzay"", stop at ""Haluchère-Batignolles"" (18 minutes).",47.248785,-1.520898,Europe/Paris,1
+QJZ,"",Nantes - Haluchère-Batignolles,"Information: From 12 January 2026, due to the construction of a bus station, your BlaBlaCar Bus stop will be moved to Nantes South Station.",47.248785,-1.520898,Europe/Paris,1
 QXG,"",Angers - Bus Station Esplanade,"PLEASE NOTE: From 7 July 2025 to 31 August 2025, your platform will be moved to Place Sémard Quai P.",47.464769,-0.557731,Europe/Paris,1
 XAS,"",Amiens,Attention: Your stop is not at Amiens bus station but in Hortillons' parking (10 min from bus station) .,49.897096,2.311491,Europe/Paris,1
 XBE,"",Brive-la-Gaillarde - Brive Laroche Multimodal Interchange Hub,"",45.148625,1.479200,Europe/Paris,1
@@ -45,7 +45,7 @@ XPD,"",Paris - La Défense Jules Verne Terminal,"Access: exit 6: La Coupole. Fro
 XQR,"",Quimper - Bus Station,Boarding: BlaBlaCar buses stop at platform n° 6,47.994171,-4.090690,Europe/Paris,1
 XRN,"",Rouen - Avenue Champlain Bus Stop,"",49.434093,1.092471,Europe/Paris,1
 XSB,"",Saint-Brieuc,"",48.506828,-2.766448,Europe/Paris,1
-XTO,"",Tours - Édouard Vaillant Bus Station,"",47.383496,0.702171,Europe/Paris,1
+XTO,"",Tours - Édouard Vaillant Bus Station,"Information: Starting December 16, due to the construction of a new bus stop, your BlaBlaCar buses will be transferred to the Vaucanson site.",47.383496,0.702171,Europe/Paris,1
 ZFJ,"",Rennes - Bus Station,"",48.104103,-1.669906,Europe/Paris,1
 ZFQ,"",Bordeaux - Belcier Bus Stop,"",44.822718,-0.554691,Europe/Paris,1
 COU,"",Coquelles - UK,"",50.929309,1.822330,Europe/London,1
@@ -53,7 +53,7 @@ XBN,"",Besançon - Viotte Hub,"",47.246810,6.022631,Europe/Paris,1
 ZDH,"",Mulhouse,"",47.742183,7.341877,Europe/Paris,1
 XCN,"",Cannes - Place Bénidorm,"Votre arrêt est situé sur le parking, en face de l'office de tourisme.",43.570898,7.014582,Europe/Paris,1
 COF,"",Coquelles - Terminal Eurotunnel,"",50.929896,1.821999,Europe/Paris,1
-XVS,"",Vannes,"",47.666422,-2.747920,Europe/Paris,1
+XVS,"",Vannes,Platform No. 9,47.665917,-2.749192,Europe/Paris,1
 XLR,"",La Rochelle - Bus Station,"",46.153044,-1.141486,Europe/Paris,1
 XTR,"",Troyes,"",48.296203,4.065316,Europe/Paris,1
 XLA,"",Les Deux Alpes,"",45.010446,6.124712,Europe/Paris,1
@@ -390,7 +390,7 @@ CLI,"",Clisson - Hellfest,"",47.110840,-1.293335,Europe/Paris,1
 SLZ,"",Salzburg P&R South,"",47.769222,13.070997,Europe/Vienna,1
 AUG,"",Augsburg - Biberbachstrasse Bus Station,"",48.401680,10.876999,Europe/Berlin,1
 LEL,"",Legoland Deutschland,"",48.425696,10.299955,Europe/Berlin,1
-BSV,"",Bratislava,"ATTENTION from Monday, October 13 inclusive : Service 30499 Platform No. 3 & Service 30498 Platform No. 11",48.146782,17.128777,Europe/Bratislava,1
+BSV,"",Bratislava,Service 30499 Platform No. 3 & Service 30498 Platform No. 11,48.146782,17.128777,Europe/Bratislava,1
 VIE,"",Vienna - Bus Station,Platform No. 2,48.190755,16.414215,Europe/Vienna,1
 PIL,"",Pilsen - Husova Central Bus Station,"",49.746331,13.362978,Europe/Prague,1
 PRF,"",Prague - Florenc Main Bus Terminal,"",50.089361,14.440614,Europe/Prague,1
@@ -522,7 +522,7 @@ SCQ,"",Santiago de Compostela - Airport,"",42.892814,-8.421718,Europe/Madrid,1
 VGO,"",Vigo - Airport,"",42.225976,-8.632918,Europe/Madrid,1
 ALB,"",Albacete,"",38.998514,-1.847590,Europe/Madrid,1
 CRT,"",Carentan-les-Marais,"",49.302355,-1.244438,Europe/Paris,1
-XBL,"",Blois,"",47.614118,1.323893,Europe/Paris,1
+XBL,"",Blois,"Please note:  from Wednesday 29 October 2025, your bus stop will be permanently relocated to the multimodal transport hub at Rue Florimond De Beaune, Rue Germaine Tillion, 41000 Blois.",47.614118,1.323893,Europe/Paris,1
 BRN,"",Brussels - North Train Station,"The stop is located on boulevard Albert II, Zone A",50.861855,4.358507,Europe/Brussels,1
 LAE,"",Labenne,"",43.587477,-1.429311,Europe/Paris,1
 ONS,"",Ondres-Océan,"",43.563623,-1.445952,Europe/Paris,1
@@ -620,9 +620,12 @@ PSM,"",El Puerto de Santa Maria - Bus station,"",36.604718,-6.216764,Europe/Madr
 VNC,"",Vila Nova de Cerveira - Bus station,"",41.937849,-8.746262,Europe/Lisbon,1
 VAC,"",Vila do Conde - Bus stop,"",41.359349,-8.739760,Europe/Lisbon,1
 LOZ,"",Lozere - Motorway service area,"",44.870756,3.247836,Europe/Paris,1
-VAF,"",Valenciennes,"",50.363830,3.517938,Europe/Paris,1
+VAF,"",Valenciennes - University,"",50.363830,3.517938,Europe/Paris,1
 MOS,"",Mons,"",50.455733,3.940955,Europe/Brussels,1
 AMD,"",Almada – Cova da Piedade Metro,Bus stop near Cova da Piedade metro station,38.667903,-9.164611,Europe/Lisbon,1
 BOC,"",Bochum,"",51.479370,7.224681,Europe/Berlin,1
 DSB,"",Duisburg,"",51.428319,6.770644,Europe/Berlin,1
 PPM,"",Paris - Pershing-Porte Maillot Bus Station,"",48.880203,2.282469,Europe/Paris,1
+JME,"",Jard-sur-Mer,"",46.421683,-1.574258,Europe/Paris,1
+LBM,"",La Barre de Monts,"",46.892480,-2.137684,Europe/Paris,1
+GCV,"",Saint-Gilles-Croix-de-Vie,"",46.695997,-1.940972,Europe/Paris,1
