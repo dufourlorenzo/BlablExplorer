@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date
+BlaBlaCar Bus,https://www.blablacar.co.uk/bus?comuto_cmkt=UK_GMAPS-PRO_ALL_ALL&utm_medium=Partnership&utm_source=Gmaps&utm_campaign=UK_GMAPS-PRO_ALL_ALL,en,en,20251202

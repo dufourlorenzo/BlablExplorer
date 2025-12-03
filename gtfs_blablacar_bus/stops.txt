@@ -6,7 +6,7 @@ XBC,"",Barcelona - North Bus Station,"",41.394968,2.183275,Europe/Madrid,1
 ZYR,"",Brussels - Midi Train Station,"Your bus stop is located on parking strip Rue de France, take the exit Rue de France / Rue de l'Instruction.",50.834966,4.333064,Europe/Brussels,1
 GOA,"",Genoa - Via Fanti d'Italia Bus Stop,"",44.416356,8.919053,Europe/Rome,1
 XGC,"",Geneva - Bus Station,The bus station is a 7 minute walk from Geneva Cornavin train station.,46.208384,6.146746,Europe/Zurich,1
-GIA,"",Girona - Bus Station,"The entrance to the underground -1 bus station is located in Plaça Joan Brossa. As the station is closed from 23:00 to 5:45, all departures and arrivals during these hours take place at the taxi stop",41.978969,2.817311,Europe/Madrid,1
+GIA,"",Girona - Bus Station,"Platform 6 – Underground entrance -1 under train station. Closed 11PM-5:45AM, all departures/arrivals outside between Parc Centrale and train station.",41.978969,2.817311,Europe/Madrid,1
 XDB,"",Lille - Europe Train Station,"",50.638638,3.076491,Europe/Paris,1
 ZEP,"",London - Victoria Coach Station,Access : Buses are inside the Victoria Coach Station.,51.492513,-0.148349,Europe/London,1
 XYL,"",Lyon - Perrache Bus Station,"Level 1 accessible platforms, gallery A. Station closed from 00:45 to 04:45, service under Kitchener Bridge. In mid-January 2026, due to station development, your stop will be transferred to Gerland.",45.749711,4.826788,Europe/Paris,1
@@ -20,12 +20,12 @@ CDG,"",Paris - CDG Roissypole Bus Station,"Platform I - Transport: RER B - Roiss
 QRH,"",Rotterdam,"",51.923531,4.466534,Europe/Amsterdam,1
 XTS,"",Toulouse - Matabiau Bus Station,"ATTENTION: the bus station is closed from 1:00 to 4:30. Substitution: bus stop Pont Matabiau 89 boulevard Pierre Sémard 31500 TOULOUSE.  GPS point: 43.61392540552035, 1.4512734381914663",43.613299,1.452226,Europe/Paris,1
 XUT,"",Torino - Porta Nuova,"Transport: Metro : Line 1 - Station Porta Nuova. Bus : 11, 12, 58, 64, 92 - Bus stop Porta Nuova. Tramway : 4, 9 - Bus stop Porta Nuova",45.062613,7.679807,Europe/Rome,1
-ORY,"",Paris-Orly Airport - Orly Parking P5,"",48.730637,2.364067,Europe/Paris,1
+ORY,"",Paris-Orly Airport - Orly Parking Cars de groupe 1,"A free parking shuttle is available: direction Orly 1, 2, 3 / Stop: Car park P5, P5b, Group coaches 1",48.730637,2.364067,Europe/Paris,1
 QJZ,"",Nantes - Haluchère-Batignolles,"Information: From 12 January 2026, due to the construction of a bus station, your BlaBlaCar Bus stop will be moved to Nantes South Station.",47.248785,-1.520898,Europe/Paris,1
-QXG,"",Angers - Bus Station Esplanade,"PLEASE NOTE: From 7 July 2025 to 31 August 2025, your platform will be moved to Place Sémard Quai P.",47.464769,-0.557731,Europe/Paris,1
+QXG,"",Angers - Bus Station Esplanade,"",47.464769,-0.557731,Europe/Paris,1
 XAS,"",Amiens,Attention: Your stop is not at Amiens bus station but in Hortillons' parking (10 min from bus station) .,49.897096,2.311491,Europe/Paris,1
 XBE,"",Brive-la-Gaillarde - Brive Laroche Multimodal Interchange Hub,"",45.148625,1.479200,Europe/Paris,1
-XBS,"",Bourges,Please note: your stop has been moved to 1 rue Joseph le Brix until 31/12/2025 inclusive.,47.068265,2.374870,Europe/Paris,1
+XBS,"",Bourges,Please note: your stop has been moved to 1 rue Joseph le Brix until 21/11/2025 inclusive.,47.068264,2.374114,Europe/Paris,1
 XBT,"",Brest - SNCF Train Station,Platform 8,48.387050,-4.483548,Europe/Paris,1
 XCA,"",Caen - Bus Station,"",49.176438,-0.347647,Europe/Paris,1
 XCF,"",Clermont-Ferrand - Bus Station,"Note: 09-19-2025, 7:30 a.m. to 4 p.m. Dep: 17 Avenue de la Libération. From Saturday 8 p.m. to Sunday 2 p.m., the bus station is closed. Departures are from the “Salins Pasteur” stop on bd Pasteur.",45.770780,3.082300,Europe/Paris,1
@@ -53,7 +53,7 @@ XBN,"",Besançon - Viotte Hub,"",47.246810,6.022631,Europe/Paris,1
 ZDH,"",Mulhouse,"",47.742183,7.341877,Europe/Paris,1
 XCN,"",Cannes - Place Bénidorm,"Votre arrêt est situé sur le parking, en face de l'office de tourisme.",43.570898,7.014582,Europe/Paris,1
 COF,"",Coquelles - Terminal Eurotunnel,"",50.929896,1.821999,Europe/Paris,1
-XVS,"",Vannes,Platform No. 9,47.665917,-2.749192,Europe/Paris,1
+XVS,"",Vannes,Platform No. 8,47.665917,-2.749192,Europe/Paris,1
 XLR,"",La Rochelle - Bus Station,"",46.153044,-1.141486,Europe/Paris,1
 XTR,"",Troyes,"",48.296203,4.065316,Europe/Paris,1
 XLA,"",Les Deux Alpes,"",45.010446,6.124712,Europe/Paris,1
@@ -452,7 +452,7 @@ CVI,"",Collado Villalba,"",40.633367,-4.005110,Europe/Madrid,1
 GDN,"",Granada,"",37.199570,-3.614073,Europe/Madrid,1
 GUA,"",Guadix,"",37.299888,-3.128036,Europe/Madrid,1
 AGD,"",Gudina,"",42.059714,-7.131193,Europe/Madrid,1
-LTB,"",Antwerp - Luchtbal,"",51.263169,4.418152,Europe/Brussels,1
+LTB,"",Antwerp - Luchtbal,"Bus stop “P+R Luchtbal,” next to the tramway",51.263175,4.418489,Europe/Brussels,1
 AJA,"",Jaen,"",37.771232,-3.787113,Europe/Madrid,1
 ACB,"",La Línea de la Concepción - Bus Station,"",36.157970,-5.349993,Europe/Madrid,1
 AEL,"",León,"",42.593449,-5.579197,Europe/Madrid,1
@@ -482,13 +482,13 @@ BRA,"",Bragança,"",41.808166,-6.760525,Europe/Lisbon,1
 CSO,"",Castelo Branco,"",39.818722,-7.489639,Europe/Lisbon,1
 CDE,"",Celorico da Beira,"",40.626588,-7.401443,Europe/Lisbon,1
 ACH,"",Chaves,"",41.745634,-7.468554,Europe/Lisbon,1
-ACO,"",Coimbra,"",40.220705,-8.439670,Europe/Lisbon,1
+ACO,"",Coimbra,Your bus will stop under the bridge at the bus parking area.,40.220705,-8.439670,Europe/Lisbon,1
 CVA,"",Covilha,"",40.273824,-7.497704,Europe/Lisbon,1
 AFA,"",Faro,"Stop located on the Abu São Ibn Harune promenade, behind the Próximo bus terminal, at the bus parking level.",37.016853,-7.938175,Europe/Lisbon,1
-AFT,"",Fatima,"",39.627693,-8.670589,Europe/Lisbon,1
+AFT,"",Fatima,"Your bus is waiting at the bus parking area, in front of Hotel Virgem Maria.",39.627693,-8.670589,Europe/Lisbon,1
 FNO,"",Fundao,"",40.140882,-7.497869,Europe/Lisbon,1
 AGA,"",Guarda,"",40.534367,-7.263578,Europe/Lisbon,1
-PAT,"",Porto - Airport,"",41.235425,-8.669634,Europe/Lisbon,1
+PAT,"",Porto - Airport,Tourist Bus Parking – P8,41.235425,-8.669634,Europe/Lisbon,1
 AGU,"",Guimarães,"",41.416085,-8.291641,Europe/Lisbon,1
 ALA,"",Lagos,Lagos Bus Terminal – Platform No. 4,37.107739,-8.676114,Europe/Lisbon,1
 ALR,"",Leiria,Bus Stop,39.750198,-8.807529,Europe/Lisbon,1
@@ -522,7 +522,7 @@ SCQ,"",Santiago de Compostela - Airport,"",42.892814,-8.421718,Europe/Madrid,1
 VGO,"",Vigo - Airport,"",42.225976,-8.632918,Europe/Madrid,1
 ALB,"",Albacete,"",38.998514,-1.847590,Europe/Madrid,1
 CRT,"",Carentan-les-Marais,"",49.302355,-1.244438,Europe/Paris,1
-XBL,"",Blois,"Please note:  from Wednesday 29 October 2025, your bus stop will be permanently relocated to the multimodal transport hub at Rue Florimond De Beaune, Rue Germaine Tillion, 41000 Blois.",47.614118,1.323893,Europe/Paris,1
+XBL,"",Blois - Bus Station,"",47.586372,1.324131,Europe/Paris,1
 BRN,"",Brussels - North Train Station,"The stop is located on boulevard Albert II, Zone A",50.861855,4.358507,Europe/Brussels,1
 LAE,"",Labenne,"",43.587477,-1.429311,Europe/Paris,1
 ONS,"",Ondres-Océan,"",43.563623,-1.445952,Europe/Paris,1
@@ -600,7 +600,7 @@ SJM,"",Saint-Jean-de-Maurienne,"",45.277250,6.354937,Europe/Paris,1
 SMM,"",Saint-Michel-de-Maurienne,"",45.217308,6.471438,Europe/Paris,1
 XTH,"",Ax-les-Thermes - Train station,"",42.724839,1.833049,Europe/Paris,1
 FOX,"",Foix - Train station,"",42.969293,1.607254,Europe/Paris,1
-BLN,"",Bollène (highway exit),"",44.289407,4.750708,Europe/Paris,1
+BLN,"",Bollène - Highway Exit,"",44.289407,4.750708,Europe/Paris,1
 MSN,"",Montbrison - Carpooling area,"",45.636332,4.196994,Europe/Paris,1
 CHX,"",Chenonceaux,"",47.330256,1.067677,Europe/Paris,1
 CHY,"",Cheverny (castle),"",47.497550,1.460170,Europe/Paris,1
@@ -629,3 +629,9 @@ PPM,"",Paris - Pershing-Porte Maillot Bus Station,"",48.880203,2.282469,Europe/P
 JME,"",Jard-sur-Mer,"",46.421683,-1.574258,Europe/Paris,1
 LBM,"",La Barre de Monts,"",46.892480,-2.137684,Europe/Paris,1
 GCV,"",Saint-Gilles-Croix-de-Vie,"",46.695997,-1.940972,Europe/Paris,1
+ORS,"",Paris-Orly Airport - Orly Parking Cars de groupe 2,"A free parking shuttle is available: direction Orly 4 / Arrêt : Coeur d'Orly, Parking P4c, Group coaches 2",48.731993,2.372138,Europe/Paris,1
+ETE,"",Teruel - Bus Station,"",40.341743,-1.104198,Europe/Madrid,1
+FUS,"",Ussel - Highway Exit,"",45.512612,2.257309,Europe/Paris,1
+PFA,"",Fafe,"",41.447145,-8.175462,Europe/Lisbon,1
+EVR,"",Evora - Bus Station,"",38.567447,-7.918119,Europe/Lisbon,1
+STR,"",Tours - Vaucanson Bus Station,"",47.423712,0.710621,Europe/Paris,1

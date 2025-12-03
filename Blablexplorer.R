@@ -58,7 +58,7 @@ ui <- fillPage(
     
     selectizeInput(
       "stop_name",
-      "Where From?",
+      "Departure?",
       choices = if (exists("calendar_dates")) sort(unique(calendar_dates$stop_name)) else NULL,
       selected = NULL,
       options = list(placeholder = 'Type to search a stop name...', maxOptions = 10, create = FALSE)

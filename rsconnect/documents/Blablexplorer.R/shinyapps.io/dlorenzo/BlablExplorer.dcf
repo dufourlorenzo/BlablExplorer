@@ -5,8 +5,9 @@ account: dlorenzo
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15741808
-bundleId: 11029053
+bundleId: 11270179
 url: https://dlorenzo.shinyapps.io/BlablExplorer/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: LICENSE.txt|README.md|screenshot.png
