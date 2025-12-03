@@ -1,4 +1,9 @@
-.Projet_bbcbus.Rproj
+# Ignore R project file
+Projet_bbcbus.Rproj
+
+# R session files
 .Rhistory
-.rsconnect
-.Rproj.user
+.Rproj.user/
+
+# rsconnect folder
+rsconnect/
